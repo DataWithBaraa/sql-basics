@@ -11,8 +11,3 @@ This repository contains all the files, datasets, and scripts used in the course
 - `scripts/`: SQL scripts for each chapter.
 - `exercises/`: Practice exercises for hands-on learning.
 - `resources/`: Additional learning materials and links.
-
-## 👩‍💻 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/DataWithBaraa/sql-basics.git
